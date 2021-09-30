@@ -7,7 +7,7 @@ This python project will use the machines camera to click multiple pictures cont
 ◙ SIMPLE DISCRIPTION-
 
  This python program will click multiple photos using the computers camera.
- 
+  
  To start clicking pictures press "SPACEBAR". You can also use the "SPACEBAR" to pause the process. Press "ESC" key to exit.
  
  This program can be executed directly or through command line.
