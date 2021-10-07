@@ -14,7 +14,7 @@ This python project will use the machines camera to click multiple pictures cont
  
  command to execute the program (CMD) -  python "Multiple Image collector".py "destination folder name" "NO. of pictures you want to take"
  
- command example- python "Multiple Image collector".py Myiamges 100
+ command example- python "Multiple Image collector".py MyIamges 100
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
