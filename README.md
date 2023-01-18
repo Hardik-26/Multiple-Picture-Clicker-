@@ -42,14 +42,14 @@ This python project will use the machines camera to click multiple pictures cont
 
 ◙ APPLICATION WINDOW :
 
-https://user-images.githubusercontent.com/89474886/131118938-5593c660-0a18-4bdf-aea2-7819818d0314.mp4
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ◙  ALL IMAGES SAVED IN THE DIRECTORY :
 
-![Untitled](https://user-images.githubusercontent.com/89474886/131119125-42a9f1bf-eff9-4b86-ad13-d871a9e94475.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
